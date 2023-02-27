@@ -1,0 +1,12 @@
+Lyapunov Exponents of the forced system with Bessel-like damping.
+ System info: (n, B, a) = (1, 10, 0.2)
+(x0, y0, t0)= (0.1, 0.1, 0)
+Runtime for calculations=20000;  Transinet time=5000;  dT=0.02;    dt=0.002
+(Amin, Ares, Amax)= (1, 0.5, 2); number of cases:3
+(Wmin, Wres, Wmax)= (1.09, 1, 1.09); number of cases:1
+*******************************************************************************
+A,      W,      L1,     L2
+----------------------------------------
+1,1.09,-0.000651174,-0.13805
+1.5,1.09,-0.0144525,-0.235036
+2,1.09,-0.0235882,-0.337361

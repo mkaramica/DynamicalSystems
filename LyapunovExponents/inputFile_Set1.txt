@@ -1,0 +1,17 @@
+n_system = 1
+B_system = 10
+a_system = 0.2
+x0 = 0.1
+y0 = 0.1
+t0 = 0
+dt = 0.002
+dT = 0.02
+tTransient = 5.e3
+Trun = 2.e4
+Amin = 1.
+Amax = 2.
+Ares = 0.5
+Wmin = 1.09
+Wmax = 1.09
+Wres = 1
+nWriteInterval = 50
